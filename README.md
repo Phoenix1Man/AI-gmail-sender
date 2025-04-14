@@ -34,6 +34,11 @@ Jinja2	REST API	Tokenizer + T5 model	Google OAuth
 📸 Screenshots
 ![1](https://github.com/user-attachments/assets/d417daa6-b8e2-4cb7-86e1-1540deefa235)
 
+![9](https://github.com/user-attachments/assets/5b4910f5-0f96-4c70-8773-c5aa0612645f)
+
+![2](https://github.com/user-attachments/assets/bebb5870-0c9b-482c-8304-99fe73dee81b)
+![6](https://github.com/user-attachments/assets/4c580dfa-bf22-4448-bfe3-3498a007e8c9)
+![8](https://github.com/user-attachments/assets/3762dbb5-c5ca-4f77-9dea-cca265a10fba)
 
 🔗 Project Demo
 Coming soon! Private deployment ongoing — not yet public
