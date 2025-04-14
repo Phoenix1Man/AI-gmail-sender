@@ -46,7 +46,7 @@ Coming soon! Private deployment ongoing — not yet public
 📥 Contact
 For access or partnership inquiries:
 📧 dhiajebri2002@gmail.com
-LinkedIn:👇👇👇👇
+LinkedIn:👉👉👉👉
 🔗  https://t.ly/IvOBT 
 
 
