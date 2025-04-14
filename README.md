@@ -22,6 +22,7 @@ Smart email generation, personalization &amp; scheduling tool powered by AI
 🌐 Uses Gmail API for real authenticated sending
 
 🛠️ Technologies Used
+
 Frontend	Backend	AI/NLP	Other Tools
 
 HTML + Bootstrap	Flask	HuggingFace Transformers	Gmail API
